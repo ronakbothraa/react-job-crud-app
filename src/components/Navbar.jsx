@@ -1,6 +1,5 @@
 import logo from '../assets/images/logo.png';
 
-
 const Navbar = () => {
   return (
     <nav className='bg-indigo-700 border-b border-indigo-500'>
