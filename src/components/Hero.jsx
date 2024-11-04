@@ -1,3 +1,5 @@
+import React from 'react'
+
 const Hero = ({
     title = 'Become a React Dev',
     subtitle = 'Find the React job that fits your skill set',
